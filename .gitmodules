@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "buildr"]
+	path = buildr
+	url = https://github.com/netique/buildr
+	shallow = true
+	registered = true
