@@ -8,8 +8,3 @@
 	url = https://github.com/netique/buildr
 	shallow = true
 	registered = true
-[submodule "pkgdown"]
-	path = pkgdown
-	url = https://github.com/r-lib/pkgdown
-	shallow = true
-	registered = false
